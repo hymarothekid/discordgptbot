@@ -12,7 +12,7 @@
 Change the token in main.py file;
 
 Install the requirements
-```pip install requirements.txt```
+```pip install requirements.txt``` and, after <br>
 ```python main.py```
 
 Donee!! bot online!
