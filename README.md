@@ -12,7 +12,7 @@
 Change the token in main.py file;
 
 Install the requirements
-```pip install requirements.txt``
-``python main.py``
+```pip install requirements.txt```
+```python main.py```
 
 Donee!! bot online!
