@@ -1,0 +1,3 @@
+discord
+g4f
+asyncio
